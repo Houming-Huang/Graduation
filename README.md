@@ -9,4 +9,4 @@
 
 · Complete the construction of the convolutional neural network car license plate recognition model using Pytorch, complete the iterative training of the model, and test the model generated after training on test datasets, generate visual test results and analyze them. Meanwhile, make innovative improvements to address the limitations and deficiencies of the current convolutional neural network model. Improve the performance of the model and pursue better model recognition and detection results. For example, using the Softmax function to probabilistically generate outputs and setting threshold conditions to make the model's recognition criteria clear.
 
-· Make brief summaries of the thesis's research work and findings obtained. Make further outlook on the subsequent related research work on convolutional neural network models, such as optimization, iteration, etc.
+· Make brief summaries of the thesis's research work and findings obtained. Make further outlook on the related research work on convolutional neural network models, such as optimization, iteration, etc.
